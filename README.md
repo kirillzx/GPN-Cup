@@ -1,3 +1,3 @@
 # GPN-Cup
 
-Recommendation System
+Recomendation System
